@@ -45,8 +45,9 @@ Matplotlib & Seaborn: For data visualization and performance plots.
 The LSTM model achieved good accuracy and robustness in sentiment classification, demonstrating strong performance in understanding the sentiment of movie reviews by capturing long-term dependencies.
 
 # Key Takeaways
-This project showcases how deep learning techniques such as CNNs and LSTMs can be effectively applied to natural language processing tasks like sentiment analysis.
+This project showcases how deep learning techniques such as LSTMs can be effectively applied to natural language processing tasks like sentiment analysis.
 
 Effective Use of Word Embeddings: GloVe embeddings played a crucial role in improving model accuracy by capturing the semantic relationships between words.
+
 
 Feel free to explore the code and notebooks for a comprehensive understanding of the workflow, model architecture, and evaluation process!
